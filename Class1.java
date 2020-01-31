@@ -1,6 +1,6 @@
 /**
  *
- * @author Marlando Higgins
+ * @author Marlando  Higgins
  */
 
 public class Class1 {
